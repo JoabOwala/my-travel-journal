@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    height: 65px;
+    display: flex;
+    padding: 20px 36px;
+    align-items: center;
+    background: linear-gradient(90deg, #fdc8c8 1.18%, #e2a4a4 100%);
+    
+}
+.header--image {
+    height: 100%;
+    margin-right: 6px;
+    text-align: center;
+}
+.header--title {
+    font-size: 15px;
+    margin-right: auto;
+}
